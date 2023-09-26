@@ -4,8 +4,7 @@ Software engineer at Intel | Artificial Intelligence | Computer Vision | Edge Co
 
 ## Certifications
 
-[![image](https://github.com/antoniomtz/antoniomtz/assets/2906855/4fa7e60a-90c7-40f3-86be-c01b2e85b469)](https://www.credly.com/badges/03602e92-8445-408d-8cf3-09b80d6f79f3/linked_in_profile)
-
+[![image](https://images.credly.com/size/340x340/images/9844c716-1795-4561-9e4a-13bbbfcf2a37/Intel_Technical_Lead_09-2021.png)](https://www.credly.com/badges/03602e92-8445-408d-8cf3-09b80d6f79f3/linked_in_profile)
 
 ## Contact
 
