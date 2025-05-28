@@ -2,6 +2,14 @@
 
 Software engineer at Intel | Artificial Intelligence | Computer Vision | Edge Computing
 
+👋 **Hi! I’m Antonio**, an **AI Software Engineer** and **technical leader** with **10+ years of experience** building **enterprise-grade solutions** in **GenAI**, **computer vision**, and **edge computing**. I specialize in translating **cutting-edge AI technologies** into **real-world business impact** across industries.
+
+🧠 My core expertise includes **Generative AI**, **Large Language Models (LLMs)**, **vector embeddings**, **Retrieval-Augmented Generation (RAG)**, and **Agent-based systems**. I design and deploy **intelligent applications** that combine these capabilities for **scalable, high-impact results**.
+
+🎤 I am passionate about **AI evangelism/advocacy** and have delivered **numerous workshops and presentations** to **thousands of professionals** over the past 15 years. I create **engaging content** including **demos**, **articles**, and **videos** that make **advanced AI approachable and actionable**. 
+
+🚀 Whether driving **innovation through open-source tools** or enabling **developer communities**, I focus on the **intersection of technology, communication, and impact**.
+
 ## Skills
 
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=ai&logoColor=white)
