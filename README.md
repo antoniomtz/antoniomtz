@@ -1,6 +1,8 @@
-## Antonio Martinez
+# Antonio Martinez
 
 Software engineer at Intel | Artificial Intelligence | Computer Vision | Edge Computing
+
+## About me
 
 👋 **Hi! I’m Antonio**, an **AI Software Engineer** and **technical leader** with **10+ years of experience** building **enterprise-grade solutions** in **GenAI**, **computer vision**, and **edge computing**. I specialize in translating **cutting-edge AI technologies** into **real-world business impact** across industries.
 
