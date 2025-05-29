@@ -1,6 +1,6 @@
 # Antonio Martinez
 
-Software engineer at Intel | Artificial Intelligence | Computer Vision | Edge Computing
+Software engineer at Intel | Artificial Intelligence | Computer Vision | GenAI | Edge Computing
 
 ## About me
 
