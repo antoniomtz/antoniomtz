@@ -14,7 +14,12 @@ Software engineer at Intel | Artificial Intelligence | Computer Vision | Edge Co
 
 ## Skills
 
-![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=ai&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-6E40C9?style=for-the-badge&logo=sparkles&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-0A192F?style=for-the-badge&logo=brains&logoColor=white)
+![Agents](https://img.shields.io/badge/Agents-4B0082?style=for-the-badge&logo=bot&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=search&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-2D6A4F?style=for-the-badge&logo=data:image/svg+xml;base64,ENCODED_STRING_HERE&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-3B3C36.svg?style=for-the-badge&logo=LangChain&logoColor=white)
 ![openVINO](https://img.shields.io/badge/openVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-005571?style=for-the-badge&logo=opencv&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
