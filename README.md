@@ -1,6 +1,6 @@
 # Antonio Martinez
 
-GenAI technical leader with 12+ years of experience building enterprise AI, from product vision to production, using AI-native and agentic approaches.
+GenAI technical leader with 13 years of experience building enterprise AI, from product vision to production, using AI-native and agentic approaches.
 
 ## Skills
 
